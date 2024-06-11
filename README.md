@@ -25,3 +25,7 @@ Top Rated Vehicles Showcase:
 Display the top three highest-rated vehicles in a card format with detailed information.
 Vehicle Pick-up and Return:
 Facilitate vehicle pick-up and return, including the option to rate the vehicle upon return.
+
+picture of mongo database
+![image](https://github.com/ZimskaCarolija/RentACar/assets/138680504/e96477f9-8d65-4a07-aaed-fb12783cfcd7)
+
