@@ -28,4 +28,24 @@ Facilitate vehicle pick-up and return, including the option to rate the vehicle 
 
 picture of mongo database
 ![image](https://github.com/ZimskaCarolija/RentACar/assets/138680504/e96477f9-8d65-4a07-aaed-fb12783cfcd7)
+#################   PICTURES OF PROEJCT
+
+
+
+![image](https://github.com/ZimskaCarolija/RentACar/assets/138680504/a79572fd-8482-45f8-9310-e47cb81a5be2)
+![image](https://github.com/ZimskaCarolija/RentACar/assets/138680504/4a55caaa-e0a7-4c19-994d-b0bdac0c9575)
+![image](https://github.com/ZimskaCarolija/RentACar/assets/138680504/bc1d13ce-6ac6-4ace-b5d5-527936d01c9f)
+![image](https://github.com/ZimskaCarolija/RentACar/assets/138680504/9563f7d6-c035-4ca0-89dd-8fca23fd3de7)
+![image](https://github.com/ZimskaCarolija/RentACar/assets/138680504/1750909e-cea5-4368-939b-2f13bd7a3cc4)
+![image](https://github.com/ZimskaCarolija/RentACar/assets/138680504/b74f126e-0d08-4cef-842e-b6db5d27aecc)
+![image](https://github.com/ZimskaCarolija/RentACar/assets/138680504/3fe432ee-6d88-4c57-88f6-3596890c505a)
+![image](https://github.com/ZimskaCarolija/RentACar/assets/138680504/b941d522-73a3-492f-b6a9-2bf5311199e3)
+
+
+
+
+
+
+
+
 
